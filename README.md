@@ -1,5 +1,9 @@
 # Dementes Official Website
 
+<div style="text-align: center;">
+    <img src="images/00.png" alt="Screenshot" width="100">
+</div>
+
 Welcome to the **official website of Dementes**, a 3D RPG game with voxel graphics and an isometric camera. This website was developed from scratch using **HTML, CSS, and JavaScript** for animations, and integrates **Firebase Realtime Database** to manage player data, characters, and statistics.
 
 ---
@@ -46,35 +50,53 @@ Available for **Windows** and **Android**, with plans to support **iOS** in the 
 
 ## 📷 Screenshots
 
+<div style="text-align: center;">
+    <img src="images/001.png" alt="Screenshot" width="400">
+    <img src="images/002.png" alt="Screenshot" width="400">
+    <img src="images/003.png" alt="Screenshot" width="400">
+</div>
+
 ### World and Environments
 Explore a beautifully crafted voxel world where every block holds potential for adventure.
 
-![World Screenshot](images/world.png)
+<div style="text-align: center;">
+    <img src="images/01.png" alt="Screenshot" width="400">
+</div>
 
 ### Equipment and Weapons
 Customize your character with a wide variety of weapons and equipment.
 
-![Equipment Screenshot](images/equipment.png)
+<div style="text-align: center;">
+    <img src="images/02.png" alt="Screenshot" width="400">
+</div>
 
 ### Real-Time Combat
 Face terrifying monsters and challenging bosses in strategic, real-time battles.
 
-![Combat Screenshot](images/combat.png)
+<div style="text-align: center;">
+    <img src="images/03.png" alt="Screenshot" width="400">
+</div>
 
 ### Strategic Combat
 Use verticality and strategy to gain an edge in battle.
 
-![Strategic Combat Screenshot](images/strategic_combat.png)
+<div style="text-align: center;">
+    <img src="images/04.png" alt="Screenshot" width="400">
+</div>
 
 ### Level Up
 Level up your character and unlock new powers to dominate the battlefield.
 
-![Level Up Screenshot](images/level_up.png)
+<div style="text-align: center;">
+    <img src="images/05.png" alt="Screenshot" width="400">
+</div>
 
 ### Interact with NPCs
 Engage with NPCs to negotiate, gather quests, and evolve your story.
 
-![NPC Interaction Screenshot](images/npc_interaction.png)
+<div style="text-align: center;">
+    <img src="images/06.png" alt="Screenshot" width="400">
+</div>
 
 ---
 
